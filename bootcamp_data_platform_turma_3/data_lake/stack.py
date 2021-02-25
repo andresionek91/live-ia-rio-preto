@@ -48,3 +48,4 @@ class DataLakeStack(core.Stack):
             deploy_env=self.deploy_env,
             layer=DataLakeLayer.CURATED
         )
+
