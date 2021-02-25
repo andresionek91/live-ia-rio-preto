@@ -1,0 +1,5 @@
+-e .
+aws_cdk.aws_s3==1.85.0
+aws_cdk.aws_kinesisfirehose==1.85.0
+fake-web-events
+boto3
